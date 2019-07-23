@@ -25,8 +25,8 @@
 
  [+] O tempo limite para cada resposta é de 2 segundos.
 
- [+] Para começar, digite start:
-     Iniciando...
+ [+] Para começar, digite start: start
+      Iniciando...
  [+] Mesa 1 / 25
      Copos: [1, 2, 4, 8]
      A resposta é: 3.000
