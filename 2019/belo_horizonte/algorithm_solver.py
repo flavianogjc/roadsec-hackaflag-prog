@@ -4,11 +4,9 @@ def find_best_value(arr):
     size, i = len(arr), 0
     best_value = float('inf')
     while True:
-        nl, nr = i, size - i
-
         sl, sr = sum(arr[0:i]), sum(arr[i:])
 
-        possible_best_value = (sr + 2.0 * sl) / (nr + 2.0 * nl)
+        possible_best_value = (sr + 2.0 * sl) / (size + i)
 
         if best_value > possible_best_value:
             best_value = possible_best_value
