@@ -41,12 +41,12 @@
 
 ## Execução
 ```
-$ python2.7 hack_a_flag.py
+$ python2.7 hackaflag.py
 ```
 
 ## Flag
 ```
-HACKAFLAG{NJQWQ5DFNZZWCZTMMFTW4ZJ7}
+HACKAFLAG{NLB2CIDQGNTTA5JAMEQGM3BUM4QHBQ5UEEQSCIIK}
 ```
 
 BY : flavianogjc

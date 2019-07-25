@@ -1,3 +1,5 @@
+# HACKAFLAG São José 2019
+```
                             +++   HACKACOINS   +++
 
  [+] Você foi contratado para trabalhar na nova moeda desenvolvida para o
@@ -38,3 +40,16 @@
      Intervalo: [8, 10]
      A resposta é: 6
  [+] Acertô, miseravi!
+ ```
+
+## Execução
+```
+$ python2.7 hackaflag.py
+```
+
+## Flag
+```
+HACKAFLAG{NZQW65DFNVXXK5DSMFTGYYLH}
+```
+
+BY : flavianogjc

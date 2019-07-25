@@ -1,3 +1,5 @@
+# HACKAFLAG Rio de Janeiro 2019
+```
                               +++    DDoS   +++ 
 
  [+] Essa semana, o site do Hackaflag estava muito instável e alguns jogadores 
@@ -31,3 +33,16 @@
      Cota: 10
      A resposta é: 2
  [+] Acertô, miseravi!
+ ```
+
+## Execução
+```
+$ python2.7 hackaflag.py
+```
+
+## Flag
+```
+HACKAFLAG{IRCG6U2OIFHUMVKOINEU6TSBIFJVGSKN}
+```
+
+BY : flavianogjc

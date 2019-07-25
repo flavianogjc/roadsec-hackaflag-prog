@@ -41,7 +41,7 @@
 
 ## Execução
 ```
-$ python2.7 hack_a_flag.py
+$ python2.7 hackaflag.py
 ```
 
 ## Flag

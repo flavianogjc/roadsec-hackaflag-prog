@@ -1,3 +1,5 @@
+# HACKAFLAG Belo Horizonte 2017
+```
                     +++    HACKAFLAG - TRIMOS   +++
 
  [+] Para desenvolvermos sistemas mais seguros, estamos testando a
@@ -21,3 +23,16 @@
  [+] Desafio 1 - N: 91
      A resposta é: 0
  [+] Correto!
+ ```
+
+## Execução
+```
+$ python2.7 hackaflag.py
+```
+
+## Flag
+```
+HACKAFLAG{S13v3_0f_3r4str1t0m0s}
+```
+
+BY : flavianogjc

@@ -1,3 +1,5 @@
+# HACKAFLAG Porto Alegre 2017
+```
                    +++    HACKAFLAG - Cassino II     +++
 
  [+] Com o sucesso da primeira edição, o Roadsec decidiu expandir os seus
@@ -39,3 +41,16 @@
  [+] Desafio 1 - (L): [7, 1, 2, 4, 10, 2]
      A resposta é: 21
  [+] Correto!
+ ```
+
+## Execução
+```
+$ python2.7 hackaflag.py
+```
+
+## Flag
+```
+HACKAFLAG{g00d_CArd$_f0r_fl4GS}
+```
+
+BY : flavianogjc

@@ -1,3 +1,5 @@
+# HACKAFLAG Fortaleza 2019
+```
                           +++    HOTEL   +++ 
 
  [+] Esse ano, para melhorar a recepção e estadia durante o ROADSEC, foi 
@@ -31,3 +33,16 @@
      Dígito: 1
      A resposta é: 2
  [+] Acertô, miseravi!
+ ```
+
+## Execução
+```
+$ python2.7 hackaflag.py
+```
+
+## Flag
+```
+HACKAFLAG{IVEVIQKBINEE6VKBIZGECRZB}
+```
+
+BY : flavianogjc
